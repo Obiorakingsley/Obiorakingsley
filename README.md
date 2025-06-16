@@ -18,8 +18,8 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 | Project | Description | Tech Used | Live Demo |  
 |---------|-------------|-----------|-----------|  
-| [Quiz App](https://github.com/Obiorakingsley/Quiz-App) | - | JavaScript, Html, CSS | [Demo](https://quiz-app-obiora-kingsleys-app.vercel.app/) |  
-| [To-Do List](https://github.com/Obiorakingsley/Todo-list-js) | Task management app with local storage | JavaScript | [Demo](https://todo-list-js-obiora-kingsleys-app.vercel.app/) |    
+| [Quiz App](https://github.com/Obiorakingsley/Quiz-App) | Score tracking with progress indicators | JavaScript, Html, CSS | [Demo](https://quiz-app-obiora-kingsleys-app.vercel.app/) |  
+| [To-Do List](https://github.com/Obiorakingsley/Todo-list-js) | Task management app with local storage | JavaScript, Html, Css | [Demo](https://todo-list-js-obiora-kingsleys-app.vercel.app/) |    
 
 **[View All Projects →](https://github.com/Obiorakingsley?tab=repositories)**  
 

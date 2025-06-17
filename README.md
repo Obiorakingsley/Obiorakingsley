@@ -40,6 +40,8 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ---
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obiorakingsley&show_icons=true&theme=radical)  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obiorakingsley&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/Obiorakingsley)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Obiorakingsley&theme=dark&fire=DD2727)](https://git.io/streak-stats)
 
 *"Code is poetry. Keep iterating."*  

@@ -10,9 +10,9 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,css)
 
-### **Frontend**: React (Learning)  
-### **Tools**: Git, GitHub, VS Code  
-### **Concepts**: REST APIs, Responsive Design, DOM Manipulation  
+- **Frontend**: React (Learning)  
+- **Tools**: Git, GitHub, VS Code  
+- **Concepts**: REST APIs, Responsive Design, DOM Manipulation  
 
 ---
 

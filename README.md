@@ -19,7 +19,8 @@ I build interactive web applications with clean, efficient code. Passionate abou
 ## 🚀 Featured Projects  
 
 | Project | Description | Tech Used | Live Demo |  
-|---------|-------------|-----------|-----------|  
+|---------|-------------|-----------|-----------|
+| [Todo-App](https://github.com/Obiorakingsley/Currency-Calculator) | A feature-rich To-Do List application built with React | React, Css | [Demo](https://todo-app-obiora-kingsleys-app.vercel.app/)
 | [Currency-Calculator](https://github.com/Obiorakingsley/Currency-Calculator) | Perform arithmetic operations and convert between global currencies using up-to-date exchange rates | JavaScript, Html, Css | [Demo](https://currency-calculator-obiora-kingsleys-app.vercel.app/)
 | [Weather App](https://github.com/Obiorakingsley/Weather-App) | Get real-time weather updates with accurate predictions | JavaScript, Html, Css | [Demo](https://weather-app-obiora-kingsleys-app.vercel.app/)
 | [Quiz App](https://github.com/Obiorakingsley/Quiz-App) | Score tracking with progress indicators | JavaScript, Html, CSS | [Demo](https://quiz-app-obiora-kingsleys-app.vercel.app/) |  

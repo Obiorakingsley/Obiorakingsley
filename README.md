@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kingsley Obiora 
 
-**Frontend Developer | JavaScript Enthusiast | React Learner**  
+**Frontend Developer | JavaScript Enthusiast**  
 
-I build interactive web applications with clean, efficient code. Passionate about learning modern technologies and solving real-world problems through development.  
+I build interactive web applications with clean, efficient code. Passionate about learning modern technologies and solving real world problems through development.  
 
 ---
 
@@ -10,8 +10,8 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,css)
 
-- **Frontend**: React, JavaScript, Typescript, HTML, CSS 
-- **Tools**: Git, GitHub, VS Code  
+- **Frontend**: React, JavaScript, Typescript, Tailwind CSS,HTML, CSS 
+- **Tools**: Git, Firebase, GitHub, VS Code  
 - **Concepts**: REST APIs, Responsive Design, DOM Manipulation  
 
 ---

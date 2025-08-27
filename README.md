@@ -10,7 +10,7 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,css)
 
-- **Frontend**: React (Learning), JavaScript, Typescript, HTML, CSS 
+- **Frontend**: React, JavaScript, Typescript, HTML, CSS 
 - **Tools**: Git, GitHub, VS Code  
 - **Concepts**: REST APIs, Responsive Design, DOM Manipulation  
 
@@ -40,7 +40,7 @@ I build interactive web applications with clean, efficient code. Passionate abou
 ## 📫 Let's Connect  
 - Twitter: [@kc_devv](https://x.com/kc_devv)  
 - Email: kingsleyobiora527@gmail.com  
-
+- LinkedIn: [Kingsley-obiora](https://www.linkedin.com/in/kingsley-obiora-27a01a205)
 ---
 
 

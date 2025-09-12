@@ -29,13 +29,6 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ---
 
-## 🌱 What I'm Up To  
-- Learning **React.js** and advanced JavaScript concepts  
-- Building a **portfolio website** (coming soon!)  
-- Contributing to open-source projects  
-
----
-
 ## 📫 Let's Connect  
 - Twitter: [@kc_devv](https://x.com/kc_devv)  
 - Email: kingsleyobiora527@gmail.com  

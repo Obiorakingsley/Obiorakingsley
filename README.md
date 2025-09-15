@@ -8,7 +8,7 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ## 🛠️ Tech Stack  
 
-![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,css)
+![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,sass,css,tailwind,nextjs,firebase)
 
 - **Frontend**: React, JavaScript, Next.js, Typescript, Tailwind CSS, HTML, CSS, Sass 
 - **Tools**: Git, Firebase, GitHub, VS Code  

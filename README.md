@@ -30,7 +30,7 @@ I build interactive web applications with clean, efficient code. Passionate abou
 ---
 
 ## 📫 Let's Connect  
-- Email: [kingsleyobiora527@gmail.com](kingsleyobiora527@gmail.com)  
+- Email: kingsleyobiora527@gmail.com
 - LinkedIn: [Kingsley-obiora](https://www.linkedin.com/in/kingsley-obiora-27a01a205)
 ---
 

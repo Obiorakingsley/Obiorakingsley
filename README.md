@@ -10,8 +10,8 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 ![My Stack](https://skillicons.dev/icons?i=ts,js,react,html,sass,css,tailwind,nextjs,firebase)
 
-- **Frontend**: React, JavaScript, Next.js, Typescript, Tailwind CSS, HTML, CSS, Sass 
-- **Tools**: Git, Firebase, GitHub, VS Code  
+- **Frontend**: React, JavaScript, Next.js, Typescript, Tailwind CSS, HTML, CSS, SCSS 
+- **Tools**: Git, Firebase, Firestore, GitHub, VS Code  
 - **Concepts**: REST APIs, Responsive Design, DOM Manipulation  
 
 ---
@@ -20,6 +20,7 @@ I build interactive web applications with clean, efficient code. Passionate abou
 
 | Project | Description | Tech Used | Live Demo |  
 |---------|-------------|-----------|-----------|
+| [ResumeCrafts](https://github.com/Obiorakingsley/ResumeCrafts) | ATS-friendly resume builder that helps job seekers instantly generate, edit, and export professional resumes using AI. Built with Next.js 15, Firebase, and OpenAI, scalable, and lightning fast. | Nextjs, Firebase, Firestore, Zod, Zustand, OpenAi API, TailwindCss, PDFKit, docx, Mammoth.js, canvas, pdfjs-dist, React Hook Form | [Demo](https://resumecrafts.vercel.app/)
 | [Portfolio](https://github.com/Obiorakingsley/kingsleyobiora) | A personal portfolio website built to showcase my projects, skills, and experiences. | TypeScript, React, Tailwind CSS, Sass, Gsap | [Demo](https://kingsleyobiora.vercel.app/)
 | [Estore](https://github.com/Obiorakingsley/E-store-firebase) | A full-stack, responsive e-commerce web application built with React and Firebase. Features user authentication, product filtering, cart management, and Firestore database integration | React, Firebase, Css | [Demo](https://e-store-792c2.web.app/)
 | [Currency-Calculator](https://github.com/Obiorakingsley/Currency-Calculator) | Perform arithmetic operations and convert between global currencies using up-to-date exchange rates | JavaScript, Html, Css | [Demo](https://currency-calculator-obiora-kingsleys-app.vercel.app/)
